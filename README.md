@@ -1,3 +1,3 @@
 # **Iris**
 
-Dataset empiris yang sangat fundamental dalam dunia pengenalan pola. Data ini memuat atribut fisik berupa ukuran panjang dan lebar kelopak serta mahkota bunga untuk mengklasifikasikan tiga spesies Iris yang berbeda secara otomatis. Dataset ini sangat ideal untuk melatih dan mengevaluasi algoritma klasifikasi dasar seperti K-Nearest Neighbors (KNN) maupun Support Vector Machine (SVM).
+A highly fundamental empirical dataset in the world of pattern recognition. This data contains physical attributes such as the length and width of the sepal and petal to automatically classify three different species of Iris. This dataset is highly ideal for training and evaluating basic classification algorithms such as K-Nearest Neighbors (KNN) and Support Vector Machine (SVM).
